@@ -1,0 +1,14 @@
+How to Run This Project
+Save the file
+Download or copy image.py to any folder on your laptop.
+
+Open terminal / command prompt in that folder
+
+Install required libraries
+
+pip install streamlit torch torchvision pillow matplotlib numpy
+Run the Streamlit app
+
+streamlit run image.py
+Open in browser
+Go to the link shown in the terminal (usually http://localhost:8501).
